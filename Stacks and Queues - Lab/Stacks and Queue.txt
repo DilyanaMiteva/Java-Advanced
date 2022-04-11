@@ -1,0 +1,19 @@
+	Stack
+
+push() -> dobavqne
+pop() -> premahvane
+peek() -> poglejdame koi e posledniqt dobaven element
+
+isEmpty()
+contains()
+size()
+
+	Queue
+
+offer() -> dobavqne
+poll() -> premahvane
+peek() -> poglejdame koi e posledniqt dobaven element
+
+isEmpty
+contains()
+size()
